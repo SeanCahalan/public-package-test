@@ -1,5 +1,5 @@
 {
-  "name": "@scahalan-gh-npm/test",
+  "name": "@SeanCahalan/test",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "Sean Cahalan",
   "license": "ISC",
   "publishConfig": {
-    "@scahalan-gh-npm:registry": "https://npm.pkg.github.com"
+    "@SeanCahalan:registry": "https://npm.pkg.github.com"
   }
 }
