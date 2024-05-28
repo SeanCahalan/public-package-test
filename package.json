@@ -1,0 +1,14 @@
+{
+  "name": "@scahalan-gh-npm/test",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Cahalan",
+  "license": "ISC",
+  "publishConfig": {
+    "@scahalan-gh-npm:registry": "https://npm.pkg.github.com"
+  }
+}
